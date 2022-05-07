@@ -1,2 +1,2 @@
 Hello, World!
-Hey! This is app version in 1.4
+Hey! This is app version in 1.5
