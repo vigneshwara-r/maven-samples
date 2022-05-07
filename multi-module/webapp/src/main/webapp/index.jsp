@@ -1,2 +1,2 @@
 Hello, World!
-Eyyy wassupp!!
+Hey! This is app version in 1.1
